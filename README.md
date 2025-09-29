@@ -80,6 +80,8 @@ Visit http://127.0.0.1:8000 to make predictions using the integrated model.
       3. For run the project use command :python manage.py runserver
       4. Then we open chrome and run : localhost:8000	
 
+# Screenshot--
+https://github.com/CodingwithAnkit-tech/Rain-Fall-Prediction/blob/main/Rain-Fall-Prediction%20image.jpg
 
 
 
